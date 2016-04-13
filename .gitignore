@@ -1,0 +1,12 @@
+# IntelliJ project files #
+.idea
+classes
+build
+*.class
+*.iml
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
